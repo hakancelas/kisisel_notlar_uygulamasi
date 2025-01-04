@@ -1,0 +1,20 @@
+/* Sayfa genelindeki stil ayarları */
+body {
+  background-color: #f0f8ff;  /* Arka plan rengi */
+  font-family: Arial, sans-serif;  /* Yazı tipi */
+}
+
+/* Başlık stilini özelleştirme */
+h1 {
+  color: #5a5a5a;  /* Başlık rengi */
+}
+
+/* Form için stil */
+form {
+  margin-bottom: 30px;  /* Formun altına boşluk bırakma */
+}
+
+/* Textarea boyutlandırma */
+textarea {
+  resize: none;  /* Kullanıcının textarea boyutunu değiştirmesini engelle */
+}
